@@ -1,0 +1,795 @@
+[2023-12-13T22:57:37.291+0500] {processor.py:157} INFO - Started process (PID=72183) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T22:57:37.296+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T22:57:37.298+0500] {logging_mixin.py:154} INFO - [2023-12-13T22:57:37.298+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T22:57:37.328+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T22:57:38.208+0500] {logging_mixin.py:154} INFO - [2023-12-13T22:57:38.207+0500] {manager.py:499} INFO - Created Permission View: %s
+[2023-12-13T22:57:38.231+0500] {logging_mixin.py:154} INFO - [2023-12-13T22:57:38.231+0500] {manager.py:499} INFO - Created Permission View: %s
+[2023-12-13T22:57:38.258+0500] {logging_mixin.py:154} INFO - [2023-12-13T22:57:38.257+0500] {manager.py:499} INFO - Created Permission View: %s
+[2023-12-13T22:57:38.259+0500] {logging_mixin.py:154} INFO - [2023-12-13T22:57:38.258+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T22:57:38.298+0500] {logging_mixin.py:154} INFO - [2023-12-13T22:57:38.298+0500] {dag.py:2963} INFO - Creating ORM DAG for youtube_comments_score
+[2023-12-13T22:57:38.299+0500] {logging_mixin.py:154} INFO - [2023-12-13T22:57:38.299+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T22:57:38.372+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 1.091 seconds
+[2023-12-13T22:58:08.962+0500] {processor.py:157} INFO - Started process (PID=72301) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T22:58:08.974+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T22:58:08.979+0500] {logging_mixin.py:154} INFO - [2023-12-13T22:58:08.979+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T22:58:09.003+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T22:58:09.127+0500] {logging_mixin.py:154} INFO - [2023-12-13T22:58:09.126+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T22:58:09.158+0500] {logging_mixin.py:154} INFO - [2023-12-13T22:58:09.158+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T22:58:09.212+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.258 seconds
+[2023-12-13T22:58:39.360+0500] {processor.py:157} INFO - Started process (PID=72408) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T22:58:39.367+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T22:58:39.368+0500] {logging_mixin.py:154} INFO - [2023-12-13T22:58:39.368+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T22:58:39.385+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T22:58:39.501+0500] {logging_mixin.py:154} INFO - [2023-12-13T22:58:39.501+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T22:58:39.533+0500] {logging_mixin.py:154} INFO - [2023-12-13T22:58:39.533+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T22:58:39.578+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.226 seconds
+[2023-12-13T22:59:09.640+0500] {processor.py:157} INFO - Started process (PID=72512) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T22:59:09.642+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T22:59:09.644+0500] {logging_mixin.py:154} INFO - [2023-12-13T22:59:09.643+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T22:59:09.663+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T22:59:09.760+0500] {logging_mixin.py:154} INFO - [2023-12-13T22:59:09.760+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T22:59:09.790+0500] {logging_mixin.py:154} INFO - [2023-12-13T22:59:09.790+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T22:59:09.821+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.194 seconds
+[2023-12-13T22:59:40.254+0500] {processor.py:157} INFO - Started process (PID=72618) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T22:59:40.255+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T22:59:40.257+0500] {logging_mixin.py:154} INFO - [2023-12-13T22:59:40.256+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T22:59:40.270+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T22:59:40.370+0500] {logging_mixin.py:154} INFO - [2023-12-13T22:59:40.370+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T22:59:40.399+0500] {logging_mixin.py:154} INFO - [2023-12-13T22:59:40.399+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T22:59:40.446+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.200 seconds
+[2023-12-13T23:00:10.684+0500] {processor.py:157} INFO - Started process (PID=72722) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:00:10.686+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:00:10.688+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:00:10.687+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:00:10.708+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:00:10.811+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:00:10.811+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:00:10.840+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:00:10.839+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:00:10.882+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.205 seconds
+[2023-12-13T23:00:40.992+0500] {processor.py:157} INFO - Started process (PID=72823) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:00:41.023+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:00:41.025+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:00:41.024+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:00:41.037+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:00:41.163+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:00:41.163+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:00:41.201+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:00:41.201+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:00:41.247+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.263 seconds
+[2023-12-13T23:01:11.802+0500] {processor.py:157} INFO - Started process (PID=72923) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:01:11.804+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:01:11.806+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:01:11.805+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:01:11.820+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:01:11.934+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:01:11.934+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:01:11.965+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:01:11.965+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:01:12.007+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.214 seconds
+[2023-12-13T23:01:42.111+0500] {processor.py:157} INFO - Started process (PID=73022) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:01:42.118+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:01:42.119+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:01:42.118+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:01:42.152+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:01:42.275+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:01:42.274+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:01:42.306+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:01:42.306+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:01:42.397+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.293 seconds
+[2023-12-13T23:02:13.158+0500] {processor.py:157} INFO - Started process (PID=73122) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:02:13.160+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:02:13.161+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:02:13.161+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:02:13.186+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:02:13.287+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:02:13.287+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:02:13.315+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:02:13.314+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:02:13.347+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.202 seconds
+[2023-12-13T23:02:43.487+0500] {processor.py:157} INFO - Started process (PID=73221) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:02:43.490+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:02:43.491+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:02:43.491+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:02:43.506+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:02:43.613+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:02:43.613+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:02:43.641+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:02:43.640+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:02:43.677+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.197 seconds
+[2023-12-13T23:03:14.108+0500] {processor.py:157} INFO - Started process (PID=73329) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:03:14.110+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:03:14.111+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:03:14.111+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:03:14.125+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:03:14.227+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:03:14.226+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:03:14.254+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:03:14.254+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:03:14.291+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.191 seconds
+[2023-12-13T23:03:44.519+0500] {processor.py:157} INFO - Started process (PID=73438) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:03:44.521+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:03:44.522+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:03:44.522+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:03:44.536+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:03:44.643+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:03:44.642+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:03:44.675+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:03:44.675+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:03:44.706+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.194 seconds
+[2023-12-13T23:04:15.339+0500] {processor.py:157} INFO - Started process (PID=73551) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:04:15.355+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:04:15.356+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:04:15.356+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:04:15.370+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:04:15.472+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:04:15.472+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:04:15.505+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:04:15.505+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:04:15.551+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.220 seconds
+[2023-12-13T23:04:45.963+0500] {processor.py:157} INFO - Started process (PID=73651) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:04:45.964+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:04:45.967+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:04:45.966+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:04:45.987+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:04:46.083+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:04:46.083+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:04:46.111+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:04:46.111+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:04:46.147+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.191 seconds
+[2023-12-13T23:05:16.529+0500] {processor.py:157} INFO - Started process (PID=73800) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:05:16.545+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:05:16.547+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:05:16.546+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:05:16.562+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:05:16.714+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:05:16.714+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:05:16.741+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:05:16.741+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:05:16.856+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.333 seconds
+[2023-12-13T23:05:47.137+0500] {processor.py:157} INFO - Started process (PID=73900) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:05:47.169+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:05:47.171+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:05:47.171+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:05:47.186+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:05:47.300+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:05:47.299+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:05:47.332+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:05:47.332+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:05:47.411+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.284 seconds
+[2023-12-13T23:06:17.577+0500] {processor.py:157} INFO - Started process (PID=74042) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:06:17.617+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:06:17.619+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:06:17.618+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:06:17.635+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:06:17.746+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:06:17.746+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:06:17.815+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:06:17.815+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:06:17.865+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.295 seconds
+[2023-12-13T23:06:47.911+0500] {processor.py:157} INFO - Started process (PID=74154) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:06:47.913+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:06:47.914+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:06:47.914+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:06:47.929+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:06:48.037+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:06:48.037+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:06:48.069+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:06:48.069+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:06:48.100+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.196 seconds
+[2023-12-13T23:07:18.345+0500] {processor.py:157} INFO - Started process (PID=74284) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:07:18.346+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:07:18.347+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:07:18.347+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:07:18.364+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:07:18.505+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:07:18.504+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:07:18.539+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:07:18.539+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:07:18.580+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.242 seconds
+[2023-12-13T23:07:48.824+0500] {processor.py:157} INFO - Started process (PID=74385) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:07:48.847+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:07:48.849+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:07:48.848+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:07:48.865+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:07:49.003+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:07:49.003+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:07:49.045+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:07:49.045+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:07:49.089+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.273 seconds
+[2023-12-13T23:08:19.334+0500] {processor.py:157} INFO - Started process (PID=74488) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:08:19.349+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:08:19.351+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:08:19.351+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:08:19.370+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:08:19.547+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:08:19.546+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:08:19.590+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:08:19.589+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:08:19.630+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.304 seconds
+[2023-12-13T23:08:49.729+0500] {processor.py:157} INFO - Started process (PID=74583) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:08:49.731+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:08:49.732+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:08:49.732+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:08:49.751+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:08:49.874+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:08:49.874+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:08:49.903+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:08:49.903+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:08:49.936+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.226 seconds
+[2023-12-13T23:09:19.987+0500] {processor.py:157} INFO - Started process (PID=74760) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:09:19.989+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:09:19.990+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:09:19.990+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:09:20.004+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:09:20.123+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:09:20.122+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:09:20.151+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:09:20.150+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:09:20.188+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.208 seconds
+[2023-12-13T23:09:50.390+0500] {processor.py:157} INFO - Started process (PID=74862) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:09:50.391+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:09:50.392+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:09:50.392+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:09:50.407+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:09:50.550+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:09:50.550+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:09:50.598+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:09:50.598+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:09:50.635+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.252 seconds
+[2023-12-13T23:10:20.830+0500] {processor.py:157} INFO - Started process (PID=74963) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:10:20.832+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:10:20.835+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:10:20.834+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:10:20.851+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:10:20.983+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:10:20.983+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:10:21.017+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:10:21.017+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:10:21.074+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.252 seconds
+[2023-12-13T23:10:51.422+0500] {processor.py:157} INFO - Started process (PID=75064) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:10:51.423+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:10:51.425+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:10:51.424+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:10:51.440+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:10:51.542+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:10:51.542+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:10:51.574+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:10:51.573+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:10:51.611+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.196 seconds
+[2023-12-13T23:11:21.770+0500] {processor.py:157} INFO - Started process (PID=75187) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:11:21.787+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:11:21.790+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:11:21.789+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:11:21.810+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:11:21.966+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:11:21.965+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:11:22.017+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:11:22.016+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:11:22.072+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.310 seconds
+[2023-12-13T23:11:52.569+0500] {processor.py:157} INFO - Started process (PID=75289) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:11:52.574+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:11:52.576+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:11:52.575+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:11:52.593+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:11:52.721+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:11:52.720+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:11:52.758+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:11:52.758+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:11:52.823+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.283 seconds
+[2023-12-13T23:12:23.080+0500] {processor.py:157} INFO - Started process (PID=75390) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:12:23.082+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:12:23.083+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:12:23.083+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:12:23.102+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:12:23.205+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:12:23.205+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:12:23.233+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:12:23.233+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:12:23.283+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.211 seconds
+[2023-12-13T23:12:53.447+0500] {processor.py:157} INFO - Started process (PID=75490) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:12:53.449+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:12:53.450+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:12:53.450+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:12:53.465+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:12:53.587+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:12:53.586+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:12:53.621+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:12:53.621+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:12:53.656+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.215 seconds
+[2023-12-13T23:13:23.719+0500] {processor.py:157} INFO - Started process (PID=75590) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:13:23.722+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:13:23.724+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:13:23.723+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:13:23.739+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:13:23.838+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:13:23.838+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:13:23.878+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:13:23.877+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:13:23.921+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.211 seconds
+[2023-12-13T23:13:54.055+0500] {processor.py:157} INFO - Started process (PID=75702) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:13:54.057+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:13:54.059+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:13:54.058+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:13:54.073+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:13:54.188+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:13:54.188+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:13:54.217+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:13:54.217+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:13:54.253+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.207 seconds
+[2023-12-13T23:14:24.452+0500] {processor.py:157} INFO - Started process (PID=75806) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:14:24.454+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:14:24.455+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:14:24.454+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:14:24.470+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:14:24.561+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:14:24.561+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:14:24.598+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:14:24.598+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:14:24.646+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.203 seconds
+[2023-12-13T23:14:54.864+0500] {processor.py:157} INFO - Started process (PID=75912) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:14:54.865+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:14:54.875+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:14:54.874+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:14:54.889+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:14:55.003+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:14:55.003+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:14:55.033+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:14:55.032+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:14:55.072+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.217 seconds
+[2023-12-13T23:15:25.213+0500] {processor.py:157} INFO - Started process (PID=76017) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:15:25.215+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:15:25.217+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:15:25.216+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:15:25.233+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:15:25.357+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:15:25.356+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:15:25.387+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:15:25.387+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:15:25.429+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.223 seconds
+[2023-12-13T23:15:55.528+0500] {processor.py:157} INFO - Started process (PID=76117) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:15:55.530+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:15:55.531+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:15:55.531+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:15:55.544+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:15:55.665+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:15:55.664+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:15:55.699+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:15:55.698+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:15:55.758+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.237 seconds
+[2023-12-13T23:16:26.139+0500] {processor.py:157} INFO - Started process (PID=76217) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:16:26.141+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:16:26.142+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:16:26.141+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:16:26.156+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:16:26.266+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:16:26.266+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:16:26.307+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:16:26.307+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:16:26.337+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.205 seconds
+[2023-12-13T23:16:56.495+0500] {processor.py:157} INFO - Started process (PID=76319) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:16:56.497+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:16:56.499+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:16:56.499+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:16:56.521+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:16:56.627+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:16:56.627+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:16:56.659+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:16:56.658+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:16:56.705+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.217 seconds
+[2023-12-13T23:17:26.825+0500] {processor.py:157} INFO - Started process (PID=76424) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:17:26.827+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:17:26.828+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:17:26.828+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:17:26.843+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:17:26.936+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:17:26.936+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:17:26.965+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:17:26.965+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:17:26.994+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.177 seconds
+[2023-12-13T23:17:57.108+0500] {processor.py:157} INFO - Started process (PID=76527) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:17:57.110+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:17:57.111+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:17:57.111+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:17:57.125+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:17:57.232+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:17:57.232+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:17:57.268+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:17:57.267+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:17:57.297+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.195 seconds
+[2023-12-13T23:18:27.459+0500] {processor.py:157} INFO - Started process (PID=76639) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:18:27.460+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:18:27.462+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:18:27.461+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:18:27.476+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:18:27.581+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:18:27.581+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:18:27.612+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:18:27.612+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:18:27.651+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.207 seconds
+[2023-12-13T23:18:57.770+0500] {processor.py:157} INFO - Started process (PID=76733) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:18:57.772+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:18:57.773+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:18:57.773+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:18:57.791+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:18:57.899+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:18:57.899+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:18:57.952+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:18:57.951+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:18:57.995+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.233 seconds
+[2023-12-13T23:19:28.079+0500] {processor.py:157} INFO - Started process (PID=76836) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:19:28.080+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:19:28.082+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:19:28.081+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:19:28.097+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:19:28.228+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:19:28.228+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:19:28.258+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:19:28.257+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:19:28.290+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.225 seconds
+[2023-12-13T23:19:58.674+0500] {processor.py:157} INFO - Started process (PID=76938) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:19:58.675+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:19:58.677+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:19:58.676+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:19:58.690+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:19:58.790+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:19:58.790+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:19:58.817+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:19:58.817+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:19:58.859+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.193 seconds
+[2023-12-13T23:20:28.969+0500] {processor.py:157} INFO - Started process (PID=77038) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:20:28.970+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:20:28.972+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:20:28.971+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:20:28.986+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:20:29.099+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:20:29.098+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:20:29.162+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:20:29.157+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:20:29.197+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.236 seconds
+[2023-12-13T23:20:59.331+0500] {processor.py:157} INFO - Started process (PID=77138) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:20:59.333+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:20:59.334+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:20:59.334+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:20:59.349+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:20:59.472+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:20:59.472+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:20:59.501+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:20:59.501+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:20:59.534+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.210 seconds
+[2023-12-13T23:21:29.787+0500] {processor.py:157} INFO - Started process (PID=77241) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:21:29.790+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:21:29.792+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:21:29.791+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:21:29.808+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:21:29.945+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:21:29.945+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:21:29.976+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:21:29.975+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:21:30.022+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.244 seconds
+[2023-12-13T23:22:00.154+0500] {processor.py:157} INFO - Started process (PID=77342) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:22:00.155+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:22:00.156+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:22:00.156+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:22:00.171+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:22:00.277+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:22:00.277+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:22:00.310+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:22:00.310+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:22:00.345+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.198 seconds
+[2023-12-13T23:22:30.770+0500] {processor.py:157} INFO - Started process (PID=77433) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:22:30.772+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:22:30.773+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:22:30.773+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:22:30.789+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:22:30.931+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:22:30.930+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:22:30.960+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:22:30.960+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:22:31.004+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.241 seconds
+[2023-12-13T23:23:01.377+0500] {processor.py:157} INFO - Started process (PID=77533) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:23:01.379+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:23:01.380+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:23:01.379+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:23:01.402+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:23:01.506+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:23:01.505+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:23:01.543+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:23:01.543+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:23:01.576+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.207 seconds
+[2023-12-13T23:23:31.995+0500] {processor.py:157} INFO - Started process (PID=77637) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:23:31.997+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:23:31.998+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:23:31.998+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:23:32.011+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:23:32.121+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:23:32.120+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:23:32.151+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:23:32.151+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:23:32.184+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.195 seconds
+[2023-12-13T23:24:02.373+0500] {processor.py:157} INFO - Started process (PID=77737) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:24:02.374+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:24:02.376+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:24:02.375+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:24:02.391+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:24:02.513+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:24:02.512+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:24:02.541+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:24:02.541+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:24:02.582+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.216 seconds
+[2023-12-13T23:24:33.076+0500] {processor.py:157} INFO - Started process (PID=77837) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:24:33.077+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:24:33.079+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:24:33.078+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:24:33.096+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:24:33.209+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:24:33.208+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:24:33.240+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:24:33.239+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:24:33.271+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.202 seconds
+[2023-12-13T23:25:03.798+0500] {processor.py:157} INFO - Started process (PID=77944) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:25:03.800+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:25:03.801+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:25:03.801+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:25:03.816+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:25:03.942+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:25:03.941+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:25:03.983+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:25:03.983+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:25:04.022+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.237 seconds
+[2023-12-13T23:25:34.173+0500] {processor.py:157} INFO - Started process (PID=78044) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:25:34.175+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:25:34.177+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:25:34.176+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:25:34.193+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:25:34.292+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:25:34.292+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:25:34.336+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:25:34.336+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:25:34.375+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.210 seconds
+[2023-12-13T23:26:04.796+0500] {processor.py:157} INFO - Started process (PID=78144) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:26:04.798+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:26:04.799+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:26:04.799+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:26:04.815+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:26:04.937+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:26:04.937+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:26:04.965+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:26:04.964+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:26:05.004+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.215 seconds
+[2023-12-13T23:26:35.426+0500] {processor.py:157} INFO - Started process (PID=78245) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:26:35.428+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:26:35.430+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:26:35.429+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:26:35.444+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:26:35.573+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:26:35.573+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:26:35.603+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:26:35.603+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:26:35.655+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.239 seconds
+[2023-12-13T23:27:05.889+0500] {processor.py:157} INFO - Started process (PID=78347) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:27:05.890+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:27:05.892+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:27:05.891+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:27:05.906+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:27:06.023+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:27:06.023+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:27:06.052+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:27:06.052+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:27:06.089+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.208 seconds
+[2023-12-13T23:27:36.700+0500] {processor.py:157} INFO - Started process (PID=78453) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:27:36.702+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:27:36.703+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:27:36.703+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:27:36.725+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:27:36.852+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:27:36.852+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:27:36.882+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:27:36.881+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:27:36.932+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.238 seconds
+[2023-12-13T23:28:07.387+0500] {processor.py:157} INFO - Started process (PID=78563) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:28:07.389+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:28:07.390+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:28:07.390+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:28:07.404+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:28:07.513+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:28:07.512+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:28:07.542+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:28:07.541+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:28:07.592+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.213 seconds
+[2023-12-13T23:28:37.770+0500] {processor.py:157} INFO - Started process (PID=78666) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:28:37.771+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:28:37.773+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:28:37.772+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:28:37.788+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:28:37.893+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:28:37.892+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:28:37.924+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:28:37.924+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:28:37.962+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.199 seconds
+[2023-12-13T23:29:08.385+0500] {processor.py:157} INFO - Started process (PID=78767) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:29:08.388+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:29:08.389+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:29:08.389+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:29:08.403+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:29:08.534+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:29:08.534+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:29:08.569+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:29:08.569+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:29:08.616+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.242 seconds
+[2023-12-13T23:29:37.900+0500] {processor.py:157} INFO - Started process (PID=78872) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:29:37.903+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:29:37.904+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:29:37.904+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:29:37.920+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:29:38.240+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:29:38.239+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:29:38.263+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:29:38.262+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:29:38.300+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.409 seconds
+[2023-12-13T23:30:08.534+0500] {processor.py:157} INFO - Started process (PID=78975) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:30:08.536+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:30:08.537+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:30:08.537+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:30:08.551+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:30:08.662+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:30:08.662+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:30:08.690+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:30:08.689+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:30:08.730+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.203 seconds
+[2023-12-13T23:30:38.957+0500] {processor.py:157} INFO - Started process (PID=79075) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:30:38.959+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:30:38.961+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:30:38.960+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:30:38.982+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:30:39.078+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:30:39.078+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:30:39.107+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:30:39.107+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:30:39.175+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.224 seconds
+[2023-12-13T23:31:09.857+0500] {processor.py:157} INFO - Started process (PID=79180) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:31:09.863+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:31:09.865+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:31:09.864+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:31:09.885+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:31:10.024+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:31:10.023+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:31:10.059+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:31:10.059+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:31:10.135+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.290 seconds
+[2023-12-13T23:31:40.326+0500] {processor.py:157} INFO - Started process (PID=79333) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:31:40.342+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:31:40.345+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:31:40.344+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:31:40.366+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:31:40.518+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:31:40.517+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:31:40.556+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:31:40.555+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:31:40.612+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.298 seconds
+[2023-12-13T23:32:10.795+0500] {processor.py:157} INFO - Started process (PID=79438) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:32:10.797+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:32:10.799+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:32:10.798+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:32:10.815+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:32:10.925+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:32:10.925+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:32:10.958+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:32:10.957+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:32:10.994+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.207 seconds
+[2023-12-13T23:32:41.184+0500] {processor.py:157} INFO - Started process (PID=79549) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:32:41.186+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:32:41.187+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:32:41.186+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:32:41.211+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:32:41.321+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:32:41.321+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:32:41.357+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:32:41.356+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:32:41.409+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.231 seconds
+[2023-12-13T23:33:11.957+0500] {processor.py:157} INFO - Started process (PID=79649) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:33:11.959+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:33:11.961+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:33:11.960+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:33:11.976+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:33:12.070+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:33:12.069+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:33:12.102+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:33:12.102+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:33:12.147+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.199 seconds
+[2023-12-13T23:33:42.764+0500] {processor.py:157} INFO - Started process (PID=79753) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:33:42.766+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:33:42.767+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:33:42.766+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:33:42.785+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:33:42.931+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:33:42.930+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:33:43.029+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:33:43.028+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:33:43.096+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.343 seconds
+[2023-12-13T23:34:13.208+0500] {processor.py:157} INFO - Started process (PID=79853) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:34:13.210+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:34:13.212+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:34:13.211+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:34:13.227+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:34:13.325+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:34:13.325+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:34:13.359+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:34:13.359+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:34:13.398+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.198 seconds
+[2023-12-13T23:34:43.957+0500] {processor.py:157} INFO - Started process (PID=79957) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:34:43.959+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:34:43.961+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:34:43.961+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:34:43.986+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:34:44.094+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:34:44.093+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:34:44.135+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:34:44.135+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:34:44.167+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.220 seconds
+[2023-12-13T23:35:14.394+0500] {processor.py:157} INFO - Started process (PID=80065) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:35:14.395+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:35:14.397+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:35:14.396+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:35:14.413+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:35:14.527+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:35:14.527+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:35:14.564+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:35:14.563+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:35:14.613+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.226 seconds
+[2023-12-13T23:37:52.355+0500] {processor.py:157} INFO - Started process (PID=80150) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:37:52.356+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:37:52.358+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:37:52.358+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:37:52.384+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:37:52.587+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:37:52.587+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:37:52.625+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:37:52.624+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:37:52.687+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.339 seconds
+[2023-12-13T23:38:23.093+0500] {processor.py:157} INFO - Started process (PID=80277) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:38:23.094+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:38:23.095+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:38:23.095+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:38:23.111+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:38:23.217+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:38:23.216+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:38:23.245+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:38:23.245+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:38:23.291+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.205 seconds
+[2023-12-13T23:38:53.647+0500] {processor.py:157} INFO - Started process (PID=80410) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:38:53.662+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:38:53.665+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:38:53.664+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:38:53.699+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:38:53.900+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:38:53.900+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:38:53.960+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:38:53.960+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:38:54.017+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.383 seconds
+[2023-12-13T23:39:24.689+0500] {processor.py:157} INFO - Started process (PID=80531) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:39:24.691+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:39:24.693+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:39:24.692+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:39:24.706+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:39:24.826+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:39:24.826+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:39:24.854+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:39:24.854+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:39:24.893+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.212 seconds
+[2023-12-13T23:39:55.174+0500] {processor.py:157} INFO - Started process (PID=80634) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:39:55.176+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:39:55.178+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:39:55.177+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:39:55.220+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:39:55.477+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:39:55.477+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:39:55.531+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:39:55.530+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:39:55.617+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.452 seconds
+[2023-12-13T23:40:26.148+0500] {processor.py:157} INFO - Started process (PID=80750) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:40:26.167+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:40:26.168+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:40:26.168+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:40:26.225+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:40:26.427+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:40:26.424+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:40:26.473+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:40:26.473+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:40:26.561+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.432 seconds
+[2023-12-13T23:40:56.667+0500] {processor.py:157} INFO - Started process (PID=80885) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:40:56.682+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:40:56.684+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:40:56.684+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:40:56.713+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:40:56.862+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:40:56.862+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:40:56.904+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:40:56.904+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:40:56.950+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.290 seconds
+[2023-12-13T23:41:27.006+0500] {processor.py:157} INFO - Started process (PID=80986) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:41:27.008+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:41:27.009+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:41:27.009+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:41:27.028+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:41:27.133+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:41:27.133+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:41:27.164+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:41:27.163+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:41:27.205+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.210 seconds
+[2023-12-13T23:41:57.953+0500] {processor.py:157} INFO - Started process (PID=81088) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:41:57.955+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:41:57.957+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:41:57.956+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:41:57.981+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:41:58.092+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:41:58.092+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:41:58.129+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:41:58.129+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:41:58.171+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.225 seconds
+[2023-12-13T23:42:28.474+0500] {processor.py:157} INFO - Started process (PID=81193) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:42:28.476+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:42:28.477+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:42:28.477+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:42:28.490+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:42:28.634+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:42:28.634+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:42:28.661+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:42:28.660+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:42:28.717+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.250 seconds
+[2023-12-13T23:42:59.041+0500] {processor.py:157} INFO - Started process (PID=81298) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:42:59.058+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:42:59.060+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:42:59.059+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:42:59.079+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:42:59.244+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:42:59.244+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:42:59.275+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:42:59.275+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:42:59.340+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.310 seconds
+[2023-12-13T23:43:29.558+0500] {processor.py:157} INFO - Started process (PID=81406) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:43:29.559+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:43:29.561+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:43:29.561+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:43:29.576+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:43:29.696+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:43:29.696+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:43:29.728+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:43:29.728+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:43:29.770+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.222 seconds
+[2023-12-13T23:44:20.569+0500] {processor.py:157} INFO - Started process (PID=81445) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:44:20.570+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:44:20.572+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:44:20.571+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:44:20.600+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:44:20.745+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:44:20.745+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:44:20.773+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:44:20.773+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:44:20.819+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.257 seconds
+[2023-12-13T23:44:50.997+0500] {processor.py:157} INFO - Started process (PID=81560) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:44:50.999+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:44:51.000+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:44:50.999+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:44:51.019+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:44:51.135+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:44:51.135+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:44:51.168+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:44:51.168+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:44:51.211+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.223 seconds
+[2023-12-13T23:45:21.745+0500] {processor.py:157} INFO - Started process (PID=81704) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:45:21.757+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:45:21.759+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:45:21.759+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:45:21.778+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:45:21.921+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:45:21.921+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:45:21.965+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:45:21.964+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:45:22.046+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.311 seconds
+[2023-12-13T23:45:52.759+0500] {processor.py:157} INFO - Started process (PID=81821) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:45:52.795+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:45:52.796+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:45:52.796+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:45:52.814+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:45:52.926+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:45:52.925+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:45:52.953+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:45:52.953+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:45:53.008+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.256 seconds
+[2023-12-13T23:46:23.757+0500] {processor.py:157} INFO - Started process (PID=81933) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:46:23.787+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:46:23.788+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:46:23.788+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:46:23.802+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:46:23.913+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:46:23.913+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:46:23.971+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:46:23.971+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:46:24.059+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.321 seconds
+[2023-12-13T23:46:54.414+0500] {processor.py:157} INFO - Started process (PID=82075) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:46:54.416+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:46:54.417+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:46:54.417+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:46:54.431+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:46:54.542+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:46:54.541+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:46:54.571+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:46:54.571+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:46:54.618+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.212 seconds
+[2023-12-13T23:47:25.403+0500] {processor.py:157} INFO - Started process (PID=82189) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:47:25.412+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:47:25.414+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:47:25.413+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:47:25.446+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:47:25.550+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:47:25.550+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:47:25.577+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:47:25.577+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:47:25.754+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.359 seconds
+[2023-12-13T23:47:55.966+0500] {processor.py:157} INFO - Started process (PID=82308) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:47:55.968+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:47:55.970+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:47:55.969+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:47:56.048+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:47:56.155+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:47:56.155+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:47:56.185+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:47:56.184+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:47:56.235+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.278 seconds
+[2023-12-13T23:48:26.298+0500] {processor.py:157} INFO - Started process (PID=82501) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:48:26.299+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:48:26.300+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:48:26.300+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:48:26.314+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:48:26.519+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:48:26.518+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:48:26.591+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:48:26.590+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:48:26.662+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.371 seconds
+[2023-12-13T23:48:56.746+0500] {processor.py:157} INFO - Started process (PID=82667) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:48:56.769+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:48:56.770+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:48:56.770+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:48:56.785+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:48:56.903+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:48:56.903+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:48:56.931+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:48:56.930+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:48:56.984+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.245 seconds
+[2023-12-13T23:49:31.274+0500] {processor.py:157} INFO - Started process (PID=82788) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:49:31.675+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:49:31.677+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:49:31.676+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:49:31.695+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:49:31.814+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:49:31.813+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:49:31.846+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:49:31.846+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:49:31.984+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.725 seconds
+[2023-12-13T23:50:02.552+0500] {processor.py:157} INFO - Started process (PID=82921) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:50:02.554+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:50:02.555+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:50:02.555+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:50:02.574+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:50:02.707+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:50:02.707+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:50:02.736+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:50:02.736+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:50:03.213+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.669 seconds
+[2023-12-13T23:50:33.412+0500] {processor.py:157} INFO - Started process (PID=83043) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:50:33.422+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:50:33.423+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:50:33.423+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:50:33.439+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:50:33.564+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:50:33.564+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:50:33.604+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:50:33.603+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:50:33.654+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.250 seconds
+[2023-12-13T23:51:03.736+0500] {processor.py:157} INFO - Started process (PID=83187) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:51:03.751+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:51:03.752+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:51:03.752+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:51:03.769+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:51:03.882+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:51:03.882+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:51:03.919+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:51:03.918+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:51:03.964+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.236 seconds
+[2023-12-13T23:51:34.373+0500] {processor.py:157} INFO - Started process (PID=83287) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:51:34.376+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:51:34.377+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:51:34.377+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:51:34.393+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:51:34.506+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:51:34.506+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:51:34.537+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:51:34.536+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:51:34.599+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.235 seconds
+[2023-12-13T23:52:04.756+0500] {processor.py:157} INFO - Started process (PID=83387) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:52:04.757+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:52:04.759+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:52:04.758+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:52:04.782+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:52:04.929+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:52:04.929+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:52:04.961+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:52:04.960+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:52:05.005+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.256 seconds
+[2023-12-13T23:52:35.485+0500] {processor.py:157} INFO - Started process (PID=83487) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:52:35.488+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:52:35.490+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:52:35.489+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:52:35.507+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:52:35.626+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:52:35.626+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:52:35.662+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:52:35.661+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:52:35.697+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.223 seconds
+[2023-12-13T23:53:05.907+0500] {processor.py:157} INFO - Started process (PID=83588) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:53:05.909+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:53:05.911+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:53:05.910+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:53:05.930+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:53:06.071+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:53:06.071+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:53:06.101+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:53:06.101+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:53:06.137+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.240 seconds
+[2023-12-13T23:53:36.288+0500] {processor.py:157} INFO - Started process (PID=83692) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:53:36.291+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:53:36.292+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:53:36.292+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:53:36.322+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:53:36.438+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:53:36.438+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:53:36.467+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:53:36.466+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:53:36.504+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.223 seconds
+[2023-12-13T23:54:43.680+0500] {processor.py:157} INFO - Started process (PID=83721) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:54:43.683+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:54:43.684+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:54:43.683+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:54:43.778+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:54:43.947+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:54:43.946+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:54:43.980+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:54:43.980+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:54:44.016+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.352 seconds
+[2023-12-13T23:55:14.458+0500] {processor.py:157} INFO - Started process (PID=83924) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:55:14.460+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:55:14.462+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:55:14.461+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:55:14.478+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:55:14.622+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:55:14.622+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:55:14.652+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:55:14.652+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:55:14.693+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.243 seconds
+[2023-12-13T23:55:45.380+0500] {processor.py:157} INFO - Started process (PID=84088) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:55:45.389+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:55:45.391+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:55:45.390+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:55:45.412+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:55:45.611+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:55:45.610+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:55:45.656+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:55:45.654+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:55:45.728+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.373 seconds
+[2023-12-13T23:56:16.171+0500] {processor.py:157} INFO - Started process (PID=84236) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:56:16.191+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:56:16.196+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:56:16.195+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:56:16.813+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:56:17.746+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:56:17.746+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:56:22.018+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:56:22.018+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:56:22.493+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 6.332 seconds
+[2023-12-13T23:56:53.406+0500] {processor.py:157} INFO - Started process (PID=84370) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:56:53.455+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:56:53.457+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:56:53.456+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:56:53.475+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:56:53.575+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:56:53.574+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:56:53.604+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:56:53.604+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:56:53.681+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.282 seconds
+[2023-12-13T23:57:24.302+0500] {processor.py:157} INFO - Started process (PID=84503) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:57:24.304+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:57:24.305+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:57:24.304+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:57:24.323+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:57:24.450+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:57:24.449+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:57:24.487+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:57:24.487+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:57:24.541+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.246 seconds
+[2023-12-13T23:57:54.707+0500] {processor.py:157} INFO - Started process (PID=84603) to work on /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:57:54.709+0500] {processor.py:829} INFO - Processing file /home/ml/project/flow/airflow/dags/youtube_comments_score.py for tasks to queue
+[2023-12-13T23:57:54.710+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:57:54.710+0500] {dagbag.py:536} INFO - Filling up the DagBag from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:57:54.726+0500] {processor.py:839} INFO - DAG(s) dict_keys(['youtube_comments_score']) retrieved from /home/ml/project/flow/airflow/dags/youtube_comments_score.py
+[2023-12-13T23:57:54.845+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:57:54.845+0500] {dag.py:2941} INFO - Sync 1 DAGs
+[2023-12-13T23:57:54.879+0500] {logging_mixin.py:154} INFO - [2023-12-13T23:57:54.878+0500] {dag.py:3722} INFO - Setting next_dagrun for youtube_comments_score to None, run_after=None
+[2023-12-13T23:57:54.929+0500] {processor.py:179} INFO - Processing /home/ml/project/flow/airflow/dags/youtube_comments_score.py took 0.230 seconds
