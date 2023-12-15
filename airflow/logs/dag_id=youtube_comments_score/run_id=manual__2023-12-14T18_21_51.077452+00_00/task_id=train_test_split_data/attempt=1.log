@@ -1,0 +1,16 @@
+[2023-12-14T23:22:55.715+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: youtube_comments_score.train_test_split_data manual__2023-12-14T18:21:51.077452+00:00 [queued]>
+[2023-12-14T23:22:55.730+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: youtube_comments_score.train_test_split_data manual__2023-12-14T18:21:51.077452+00:00 [queued]>
+[2023-12-14T23:22:55.730+0500] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2023-12-14T23:22:55.791+0500] {taskinstance.py:1382} INFO - Executing <Task(BashOperator): train_test_split_data> on 2023-12-14 18:21:51.077452+00:00
+[2023-12-14T23:22:55.799+0500] {standard_task_runner.py:57} INFO - Started process 46096 to run task
+[2023-12-14T23:22:55.805+0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'youtube_comments_score', 'train_test_split_data', 'manual__2023-12-14T18:21:51.077452+00:00', '--job-id', '115', '--raw', '--subdir', 'DAGS_FOLDER/youtube_comments_score.py', '--cfg-path', '/tmp/tmp8__91wzc']
+[2023-12-14T23:22:55.808+0500] {standard_task_runner.py:85} INFO - Job 115: Subtask train_test_split_data
+[2023-12-14T23:22:56.201+0500] {task_command.py:416} INFO - Running <TaskInstance: youtube_comments_score.train_test_split_data manual__2023-12-14T18:21:51.077452+00:00 [running]> on host ml-vb
+[2023-12-14T23:22:56.775+0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='admin' AIRFLOW_CTX_DAG_ID='youtube_comments_score' AIRFLOW_CTX_TASK_ID='train_test_split_data' AIRFLOW_CTX_EXECUTION_DATE='2023-12-14T18:21:51.077452+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2023-12-14T18:21:51.077452+00:00'
+[2023-12-14T23:22:56.778+0500] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2023-12-14T23:22:56.779+0500] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python3 /home/ml/project/flow/scripts/train_test_split.py']
+[2023-12-14T23:22:56.800+0500] {subprocess.py:86} INFO - Output:
+[2023-12-14T23:22:58.134+0500] {subprocess.py:97} INFO - Command exited with return code 0
+[2023-12-14T23:22:58.331+0500] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=youtube_comments_score, task_id=train_test_split_data, execution_date=20231214T182151, start_date=20231214T182255, end_date=20231214T182258
+[2023-12-14T23:22:58.377+0500] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2023-12-14T23:22:58.486+0500] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check

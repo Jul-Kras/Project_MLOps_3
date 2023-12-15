@@ -1,0 +1,21 @@
+[2023-12-14T23:30:25.827+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: youtube_comments_score.train_model manual__2023-12-14T18:29:09.518135+00:00 [queued]>
+[2023-12-14T23:30:25.845+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: youtube_comments_score.train_model manual__2023-12-14T18:29:09.518135+00:00 [queued]>
+[2023-12-14T23:30:25.846+0500] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2023-12-14T23:30:25.874+0500] {taskinstance.py:1382} INFO - Executing <Task(BashOperator): train_model> on 2023-12-14 18:29:09.518135+00:00
+[2023-12-14T23:30:25.886+0500] {standard_task_runner.py:57} INFO - Started process 47915 to run task
+[2023-12-14T23:30:25.892+0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'youtube_comments_score', 'train_model', 'manual__2023-12-14T18:29:09.518135+00:00', '--job-id', '124', '--raw', '--subdir', 'DAGS_FOLDER/youtube_comments_score.py', '--cfg-path', '/tmp/tmph675qxnv']
+[2023-12-14T23:30:25.897+0500] {standard_task_runner.py:85} INFO - Job 124: Subtask train_model
+[2023-12-14T23:30:26.194+0500] {task_command.py:416} INFO - Running <TaskInstance: youtube_comments_score.train_model manual__2023-12-14T18:29:09.518135+00:00 [running]> on host ml-vb
+[2023-12-14T23:30:26.605+0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='admin' AIRFLOW_CTX_DAG_ID='youtube_comments_score' AIRFLOW_CTX_TASK_ID='train_model' AIRFLOW_CTX_EXECUTION_DATE='2023-12-14T18:29:09.518135+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2023-12-14T18:29:09.518135+00:00'
+[2023-12-14T23:30:26.619+0500] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2023-12-14T23:30:26.620+0500] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python3 /home/ml/project/flow/scripts/train_model.py']
+[2023-12-14T23:30:26.643+0500] {subprocess.py:86} INFO - Output:
+[2023-12-14T23:31:24.137+0500] {subprocess.py:93} INFO - Registered model 'lr' already exists. Creating a new version of this model...
+[2023-12-14T23:31:24.163+0500] {subprocess.py:93} INFO - 2023/12/14 23:31:24 INFO mlflow.store.model_registry.abstract_store: Waiting up to 300 seconds for model version to finish creation. Model name: lr, version 27
+[2023-12-14T23:31:24.784+0500] {subprocess.py:93} INFO - Created version '27' of model 'lr'.
+[2023-12-14T23:31:24.785+0500] {subprocess.py:93} INFO - /home/ml/project/flow/env/lib/python3.8/site-packages/sklearn/base.py:1152: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+[2023-12-14T23:31:24.785+0500] {subprocess.py:93} INFO -   return fit_method(estimator, *args, **kwargs)
+[2023-12-14T23:31:25.525+0500] {subprocess.py:97} INFO - Command exited with return code 0
+[2023-12-14T23:31:25.728+0500] {taskinstance.py:1400} INFO - Marking task as SUCCESS. dag_id=youtube_comments_score, task_id=train_model, execution_date=20231214T182909, start_date=20231214T183025, end_date=20231214T183125
+[2023-12-14T23:31:25.848+0500] {local_task_job_runner.py:228} INFO - Task exited with return code 0
+[2023-12-14T23:31:25.949+0500] {taskinstance.py:2778} INFO - 1 downstream tasks scheduled from follow-on schedule check
