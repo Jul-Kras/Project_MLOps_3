@@ -1,0 +1,32 @@
+[2023-12-13T23:48:42.025+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: youtube_comments_score.train_model manual__2023-12-13T18:44:52.619180+00:00 [queued]>
+[2023-12-13T23:48:42.047+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: youtube_comments_score.train_model manual__2023-12-13T18:44:52.619180+00:00 [queued]>
+[2023-12-13T23:48:42.047+0500] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2023-12-13T23:48:42.080+0500] {taskinstance.py:1382} INFO - Executing <Task(BashOperator): train_model> on 2023-12-13 18:44:52.619180+00:00
+[2023-12-13T23:48:42.088+0500] {standard_task_runner.py:57} INFO - Started process 82625 to run task
+[2023-12-13T23:48:42.102+0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'youtube_comments_score', 'train_model', 'manual__2023-12-13T18:44:52.619180+00:00', '--job-id', '16', '--raw', '--subdir', 'DAGS_FOLDER/youtube_comments_score.py', '--cfg-path', '/tmp/tmpldiutt3m']
+[2023-12-13T23:48:42.106+0500] {standard_task_runner.py:85} INFO - Job 16: Subtask train_model
+[2023-12-13T23:48:42.462+0500] {task_command.py:416} INFO - Running <TaskInstance: youtube_comments_score.train_model manual__2023-12-13T18:44:52.619180+00:00 [running]> on host ml-vb
+[2023-12-13T23:48:42.965+0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='admin' AIRFLOW_CTX_DAG_ID='youtube_comments_score' AIRFLOW_CTX_TASK_ID='train_model' AIRFLOW_CTX_EXECUTION_DATE='2023-12-13T18:44:52.619180+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2023-12-13T18:44:52.619180+00:00'
+[2023-12-13T23:48:42.970+0500] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2023-12-13T23:48:42.971+0500] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python3 /home/ml/project/flow/scripts/train_model.py']
+[2023-12-13T23:48:42.995+0500] {subprocess.py:86} INFO - Output:
+[2023-12-13T23:48:52.732+0500] {subprocess.py:93} INFO - 2023/12/13 23:48:52 INFO mlflow.tracking.fluent: Experiment with name 'train_model' does not exist. Creating a new experiment.
+[2023-12-13T23:49:59.102+0500] {subprocess.py:93} INFO - Successfully registered model 'lr'.
+[2023-12-13T23:49:59.134+0500] {subprocess.py:93} INFO - 2023/12/13 23:49:59 INFO mlflow.store.model_registry.abstract_store: Waiting up to 300 seconds for model version to finish creation. Model name: lr, version 1
+[2023-12-13T23:50:00.297+0500] {subprocess.py:93} INFO - Created version '1' of model 'lr'.
+[2023-12-13T23:50:00.298+0500] {subprocess.py:93} INFO - /home/ml/project/flow/env/lib/python3.8/site-packages/sklearn/base.py:1152: DataConversionWarning: A column-vector y was passed when a 1d array was expected. Please change the shape of y to (n_samples,), for example using ravel().
+[2023-12-13T23:50:00.298+0500] {subprocess.py:93} INFO -   return fit_method(estimator, *args, **kwargs)
+[2023-12-13T23:50:00.299+0500] {subprocess.py:93} INFO - Traceback (most recent call last):
+[2023-12-13T23:50:00.299+0500] {subprocess.py:93} INFO -   File "/home/ml/project/flow/scripts/train_model.py", line 29, in <module>
+[2023-12-13T23:50:00.299+0500] {subprocess.py:93} INFO -     with open('/home/ml/project/flow/models/data.pickle', 'wb') as f:
+[2023-12-13T23:50:00.299+0500] {subprocess.py:93} INFO - FileNotFoundError: [Errno 2] No such file or directory: '/home/ml/project/flow/models/data.pickle'
+[2023-12-13T23:50:01.154+0500] {subprocess.py:97} INFO - Command exited with return code 1
+[2023-12-13T23:50:01.265+0500] {taskinstance.py:1937} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/ml/project/flow/env/lib/python3.8/site-packages/airflow/operators/bash.py", line 210, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2023-12-13T23:50:01.408+0500] {taskinstance.py:1400} INFO - Marking task as UP_FOR_RETRY. dag_id=youtube_comments_score, task_id=train_model, execution_date=20231213T184452, start_date=20231213T184842, end_date=20231213T185001
+[2023-12-13T23:50:01.548+0500] {standard_task_runner.py:104} ERROR - Failed to execute job 16 for task train_model (Bash command failed. The command returned a non-zero exit code 1.; 82625)
+[2023-12-13T23:50:01.610+0500] {local_task_job_runner.py:228} INFO - Task exited with return code 1
+[2023-12-13T23:50:01.716+0500] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check

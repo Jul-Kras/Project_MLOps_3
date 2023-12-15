@@ -1,0 +1,26 @@
+[2023-12-13T23:31:31.599+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: youtube_comments_score.get_data manual__2023-12-13T18:31:23.650739+00:00 [queued]>
+[2023-12-13T23:31:31.626+0500] {taskinstance.py:1159} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: youtube_comments_score.get_data manual__2023-12-13T18:31:23.650739+00:00 [queued]>
+[2023-12-13T23:31:31.627+0500] {taskinstance.py:1361} INFO - Starting attempt 1 of 2
+[2023-12-13T23:31:31.676+0500] {taskinstance.py:1382} INFO - Executing <Task(BashOperator): get_data> on 2023-12-13 18:31:23.650739+00:00
+[2023-12-13T23:31:31.706+0500] {standard_task_runner.py:57} INFO - Started process 79286 to run task
+[2023-12-13T23:31:31.717+0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'youtube_comments_score', 'get_data', 'manual__2023-12-13T18:31:23.650739+00:00', '--job-id', '5', '--raw', '--subdir', 'DAGS_FOLDER/youtube_comments_score.py', '--cfg-path', '/tmp/tmp6b9ouos5']
+[2023-12-13T23:31:31.725+0500] {standard_task_runner.py:85} INFO - Job 5: Subtask get_data
+[2023-12-13T23:31:32.161+0500] {task_command.py:416} INFO - Running <TaskInstance: youtube_comments_score.get_data manual__2023-12-13T18:31:23.650739+00:00 [running]> on host ml-vb
+[2023-12-13T23:31:32.630+0500] {taskinstance.py:1662} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='admin' AIRFLOW_CTX_DAG_ID='youtube_comments_score' AIRFLOW_CTX_TASK_ID='get_data' AIRFLOW_CTX_EXECUTION_DATE='2023-12-13T18:31:23.650739+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2023-12-13T18:31:23.650739+00:00'
+[2023-12-13T23:31:32.633+0500] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2023-12-13T23:31:32.634+0500] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', 'python3 /home/ml/project/flow/scripts/get_data.py']
+[2023-12-13T23:31:32.653+0500] {subprocess.py:86} INFO - Output:
+[2023-12-13T23:31:34.090+0500] {subprocess.py:93} INFO - Traceback (most recent call last):
+[2023-12-13T23:31:34.091+0500] {subprocess.py:93} INFO -   File "/home/ml/project/flow/scripts/get_data.py", line 4, in <module>
+[2023-12-13T23:31:34.092+0500] {subprocess.py:93} INFO -     from pyyoutube import Api
+[2023-12-13T23:31:34.092+0500] {subprocess.py:93} INFO - ModuleNotFoundError: No module named 'pyyoutube'
+[2023-12-13T23:31:34.288+0500] {subprocess.py:97} INFO - Command exited with return code 1
+[2023-12-13T23:31:34.375+0500] {taskinstance.py:1937} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/ml/project/flow/env/lib/python3.8/site-packages/airflow/operators/bash.py", line 210, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 1.
+[2023-12-13T23:31:34.384+0500] {taskinstance.py:1400} INFO - Marking task as UP_FOR_RETRY. dag_id=youtube_comments_score, task_id=get_data, execution_date=20231213T183123, start_date=20231213T183131, end_date=20231213T183134
+[2023-12-13T23:31:34.506+0500] {standard_task_runner.py:104} ERROR - Failed to execute job 5 for task get_data (Bash command failed. The command returned a non-zero exit code 1.; 79286)
+[2023-12-13T23:31:34.563+0500] {local_task_job_runner.py:228} INFO - Task exited with return code 1
+[2023-12-13T23:31:34.752+0500] {taskinstance.py:2778} INFO - 0 downstream tasks scheduled from follow-on schedule check
